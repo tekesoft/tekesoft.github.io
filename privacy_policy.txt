@@ -1,0 +1,54 @@
+Introduction & Core Principles
+This Privacy Policy describes our policies and procedures on the collection, use, and disclosure of your information when you use the Smart Desk Display application (the "App") and informs you about your privacy rights.
+
+We are committed to protecting your personal data and respecting your privacy. Smart Desk Display is designed as an offline-first and privacy-conscious application. We do not sell, rent, or trade your personal information to third parties.
+
+Data Collection & Permissions
+Locally Stored Information
+The App stores preferences locally to provide a seamless experience:
+
+Display & Theme: Selected clock faces, background choices, brightness, and night mode schedules.
+
+Productivity Data: Pomodoro timer intervals, custom memos, and desk notes.
+
+Local Cache: Cached media files chosen by the user.
+
+Note: All locally stored preferences remain on your device and are never transmitted to our private servers.
+
+Local Network & Weather Data
+All communication between your web browser and the App's optional embedded web server occurs strictly within your local area network (LAN). If enabled, coarse location data is processed ephemerally solely to retrieve weather forecasts and is not stored or shared.
+
+Required Permissions
+
+INTERNET & ACCESS_NETWORK_STATE: For weather data and the local web remote.
+
+READ_MEDIA_IMAGES / VIDEO: To select custom media from device storage.
+
+WAKE_LOCK / FLAG_KEEP_SCREEN_ON: To keep the ambient display visible.
+
+POST_NOTIFICATIONS: To notify you when a Pomodoro session ends.
+
+Security & Third-Party Services
+Data Retention & Security
+Your data is protected by your device's built-in Android secure sandboxing. You can delete all data and reset the App at any time via your device settings (Settings > Apps > Smart Desk Display > Storage > Clear Data) or by uninstalling the application.
+
+Third-Party Libraries
+We utilize trusted third-party libraries (which have their own privacy policies) strictly for core functionality:
+
+AndroidX Media3 (ExoPlayer): For smooth looping media playback.
+
+Coil: For efficient image and GIF decoding.
+
+Google Play Services: For app integrity and OS compatibility.
+
+Children's Privacy
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children.
+
+Policy Updates & Contact
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date at the top of this document.
+
+If you have any questions, concerns, or requests regarding our practices, please contact us:
+
+Email: tekesoft19@gmail.com
+
+Developer: Smart Desk Display Team
